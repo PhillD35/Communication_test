@@ -5,6 +5,8 @@
 
 Написана на Ruby 2.5.1
 
+Оригинал теста: http://www.syntone-spb.ru/library/article_syntone/content/4969.html
+
 Gems:
 
 Bundle 2.1.4
