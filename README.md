@@ -33,8 +33,6 @@ bundle exec ruby main.rb
 
 **lib/test.rb** - логика теста
 
-**lib/result_giver.rb** - выводит результат теста
-
 **data/questions.txt** - вопросы к тесту
 
 **data/results.txt** - результаты теста
