@@ -1,5 +1,4 @@
 require_relative 'lib/test'
-require_relative 'lib/result_giver'
 
 QUESTIONS_PATH = "#{__dir__}/data/questions.txt".freeze
 RESULTS_PATH = "#{__dir__}/data/results.txt".freeze

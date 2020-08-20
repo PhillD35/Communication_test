@@ -21,7 +21,7 @@ class Test
   end
 
   def add_score(input:, index:)
-    @score += calculate_score_increase(input, self.reverse_score?(index))
+    @score += calculate_score_increase(input, reverse_score?(index))
   end
 
   def reverse_score?(index)
@@ -37,7 +37,7 @@ class Test
   end
 
   def give_result
-    @results[self.which_result]
+    @results[which_result]
   end
 
   def which_result
