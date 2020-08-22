@@ -36,7 +36,7 @@ class Test
     end
   end
 
-  def give_result
+  def result
     @results[which_result]
   end
 

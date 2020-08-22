@@ -15,4 +15,4 @@ test.questions.each_with_index do |question, index|
   puts
 end
 
-puts test.give_result
+puts test.result
